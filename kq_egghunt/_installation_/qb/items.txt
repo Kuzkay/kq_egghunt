@@ -1,0 +1,2 @@
+
+	["kq_easteregg"] 			 = {["name"] = "kq_easteregg", 			    ["label"] = "Easter egg",	 		    ["weight"] = 100, 		["type"] = "item", 		["image"] = "kq_easteregg.png", 	    ["unique"] = false, 	["useable"] = false, 	["shouldClose"] = true,    ["combinable"] = nil,   ["description"] = "Decorated easter egg"},

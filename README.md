@@ -6,6 +6,11 @@ This script adds an easter hunting activity for your players. Compete, Hunt eggs
 
 Installation guides and item icon included within the resource
 
+## Dependency
+KuzQuality loot areas
+
+[Get for free here | Tebex](https://kuzquality.com/package/5355106)
+
 ### Socials
 [Tebex](https://kuzquality.com/)
 

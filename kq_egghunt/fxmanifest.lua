@@ -38,3 +38,5 @@ escrow_ignore {
     'server/*.lua',
     'locale/*.lua',
 }
+
+dependency 'kq_lootareas'
